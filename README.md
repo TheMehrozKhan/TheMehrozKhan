@@ -1,4 +1,4 @@
-👋 Hey There, I'm Mehroz – A Multi-skilled Front End Developer With Expertise In Php, Mysql, Sql, Javascript, C# & Asp.net or All Other Major Programming Languages.
+👋 Hey There, I'm Mehroz – A Multi-skilled Front End Developer With Expertise In Php, Mysql, Sql, Javascript, C# & Asp.net or All Other Major or Beginner Programming Languages.
 
 💻 I Love Building Dynamic And Responsive Websites And Applications Using My Diverse Skill Set. I'm Always Exploring New Technologies And Frameworks To Stay On Top Of The Latest Trends And Best Practices.
 
