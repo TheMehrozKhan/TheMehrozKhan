@@ -76,3 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMehrozKhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
