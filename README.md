@@ -54,7 +54,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Some Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
