@@ -1,3 +1,4 @@
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheMehrozKhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
 
 <h1 align="center">
@@ -52,6 +53,7 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ Some Stats ⚡</h2>
