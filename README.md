@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehroz+Khan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/themehrozkhan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/thisismehroz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
@@ -26,7 +25,6 @@
   <br>
   📫 How to reach me: <a href="mailto: khanmehroz245@gmail.com">khanmehroz245@gmail.com</a>
 </p>
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -53,9 +51,7 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
-
 <hr>
-
 <h2 align="center">⚡ Some Stats ⚡</h2>
 <br>
 <p align=center>
