@@ -6,11 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehroz+Khan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/themehrozkhan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/thisismehroz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
 <br>
+
 <p align="center">
   Hi, Mehroz Khan I'm an Multi-skilled Front-End/.NET Developer 
   <br>
@@ -25,9 +28,11 @@
   <br>
   📫 How to reach me: <a href="mailto: khanmehroz245@gmail.com">khanmehroz245@gmail.com</a>
 </p>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
@@ -51,9 +56,11 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
+
 <hr>
 <h2 align="center">⚡ Some Stats ⚡</h2>
 <br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -70,7 +77,6 @@
     </a>
   </div>
   <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMehrozKhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
