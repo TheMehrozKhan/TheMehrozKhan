@@ -1,12 +1,10 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheMehrozKhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=TheMehrozKhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
 <h1 align="center">
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehroz+Khan....;Nice+to+meet+you!&center=true&size=30">
   </a>
-
 </h1>
 
 <h5 align="center">
