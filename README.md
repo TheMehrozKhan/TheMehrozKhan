@@ -4,21 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://travis-ci.org/contractsent/framework">
-    <img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
-  </a>
-  <a href="https://packagist.org/packages/contractsent/framework">
-    <img src="https://img.shields.io/packagist/dt/contractsent/framework" alt="Total Downloads">
-  </a>
-  <a href="https://packagist.org/packages/contractsent/framework">
-    <img src="https://img.shields.io/packagist/v/contractsent/framework" alt="Latest Stable Version">
-  </a>
-  <a href="https://packagist.org/packages/contractsent/framework">
-    <img src="https://img.shields.io/packagist/l/contractsent/framework" alt="License">
-  </a>
-</p>
-
 # Contract Sent
 
 Contract Sent is building SaaS Contract Management for scale. After thousands of hours of contract review, we realized the inefficiencies in how many companies manage their SaaS contracts. Contracts are the true source of data in your business, but they’re not easily accessible. Our goal is to unlock this data to help startups build scalable systems early and fast.
