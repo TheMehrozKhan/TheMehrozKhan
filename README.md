@@ -10,14 +10,9 @@ Contract Sent is building SaaS Contract Management for scale. After thousands of
 
 ## Table of Contents
 
-- [About Us](#about-us)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [About Us](https://www.contractsent.com/our-approach/)
+- [Getting Started](https://contractsent.com/getting-started/)
+- [Features](https://www.contractsent.com/)
 
 ## About Us
 
@@ -33,3 +28,21 @@ These instructions will help you get a copy of the project up and running on you
 - Vue.js for the frontend
 - Azure for cloud services
 - AI integration for data processing
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+- Simple, fast routing engine.
+- Powerful dependency injection container.
+- Multiple back-ends for session and cache storage.
+- Expressive, intuitive database ORM.
+- Database agnostic schema migrations.
+- Robust background job processing.
+- Real-time event broadcasting.
+
+Features
+- Signed Contracts: The most reliable source of truth in any business.
+- Auditable Data: Contracts provide the most reliable business information.
+- Structured Data: Transforming contract data into structured, usable formats.
+- Key Data Points Tracking: Focus on contract dates, termination clauses, refund clauses, IP licenses, contract ARR, and SLAs.
