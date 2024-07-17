@@ -1,48 +1,88 @@
-<p align="center">
-  <a href="https://contractsent.com" target="_blank">
-    <img src="https://i0.wp.com/contractsendev.wpengine.com/wp-content/uploads/2023/11/Contract-Sent-Logo.png?w=316&ssl=1)" width="400" alt="Contract Sent Logo">
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=TheMehrozKhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanashraf12" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehroz+Khan....;Nice+to+meet+you!&center=true&size=30">
+
   </a>
+</h1>
+
+<h5 align="center">
+
+  <code><a href="https://www.linkedin.com/in/themehrozkhan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/thisismehroz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+
+</h5>
+
+<br>
+
+<p align="center">
+  Hi, Mehroz Khan I'm an Multi-skilled Front-End/.NET Developer 
+  <br>
+  <br>
+  🎓 I'm currently studying in 6th semester of my software engineering diploma at Aptech Pakistan
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently Learning REACT/NEXT.JS and more frontend frameworks to enhance my workflow
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/TheMehrozKhan/TheMehrozKhan/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: khanmehroz245@gmail.com">khanmehroz245@gmail.com</a>
 </p>
 
-# Contract Sent
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 
-Contract Sent is building SaaS Contract Management for scale. After thousands of hours of contract review, we realized the inefficiencies in how many companies manage their SaaS contracts. Contracts are the true source of data in your business, but they’re not easily accessible. Our goal is to unlock this data to help startups build scalable systems early and fast.
+<p align="center">
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>  
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
 
-## Table of Contents
+<hr>
+<h2 align="center">⚡ Some Stats ⚡</h2>
+<br>
 
-- [About Us](https://www.contractsent.com/our-approach/)
-- [Getting Started](https://contractsent.com/getting-started/)
-- [Features](https://www.contractsent.com/)
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=TheMehrozKhan&theme=react&border=61dafb&hide_border=true" alt="TheMehrozKhan" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=TheMehrozKhan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMehrozKhan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMehrozKhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-## About Us
-
-Contract Sent focuses on creating good data from day-to-day business processes. Our systems extract reliable data to drive your business, ensuring no more garbage in, garbage out. We provide structured data from the start, saving time and enabling better business decisions.
-
-## Getting Started
-
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Laravel for the backend
-- Vue.js for the frontend
-- Azure for cloud services
-- AI integration for data processing
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- Simple, fast routing engine.
-- Powerful dependency injection container.
-- Multiple back-ends for session and cache storage.
-- Expressive, intuitive database ORM.
-- Database agnostic schema migrations.
-- Robust background job processing.
-- Real-time event broadcasting.
-
-Features
-- Signed Contracts: The most reliable source of truth in any business.
-- Auditable Data: Contracts provide the most reliable business information.
-- Structured Data: Transforming contract data into structured, usable formats.
-- Key Data Points Tracking: Focus on contract dates, termination clauses, refund clauses, IP licenses, contract ARR, and SLAs.
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
