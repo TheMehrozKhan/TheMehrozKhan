@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://contractsent.com" target="_blank">
-    <img src="path_to_contract_sent_logo" width="400" alt="Contract Sent Logo">
+    <img src="https://i0.wp.com/contractsendev.wpengine.com/wp-content/uploads/2023/11/Contract-Sent-Logo.png?w=316&ssl=1)" width="400" alt="Contract Sent Logo">
   </a>
 </p>
 
