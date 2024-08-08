@@ -64,6 +64,8 @@
 <h2 align="center">⚡ Some Stats ⚡</h2>
 <br>
 
+<figure><embed src="https://wakatime.com/share/@71a06ba6-ca44-49ca-b348-233cbfb63ea1/1d3cea2c-fd9f-4e78-a405-88a605f45267.svg"></embed></figure>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
