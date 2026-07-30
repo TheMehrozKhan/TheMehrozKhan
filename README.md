@@ -10,7 +10,6 @@
 <h5 align="center">
 
   <code><a href="https://www.linkedin.com/in/themehrozkhan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/thisismehroz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 
 </h5>
 
@@ -20,7 +19,7 @@
   Hi, Mehroz Khan I'm an Multi-skilled Front-End/.NET Developer 
   <br>
   <br>
-  🎓 I'm currently studying in 6th semester of my software engineering diploma at Aptech Pakistan
+  🎓 I'm currently studying software engineering diploma at Aptech Pakistan
   <br>
   💻 I love writing code and learn anythings about it
   <br>
