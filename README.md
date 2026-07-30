@@ -31,7 +31,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <hr>
-<h2 align="center">⚡ Some Stats ⚡</h2>
+<h2 align="center">Some Stats</h2>
 <br>
 
 <p align=center>
